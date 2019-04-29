@@ -124,13 +124,12 @@ a:hover {
   margin: .5rem auto;
 }
 
-/* Így kell az aláhúzást elkészíteni */
-
 .date {
   font-size: 1.25rem;
   letter-spacing: .15rem;
   vertical-align: middle;
 }
+/* Így kell a kis vonalat előtte és utána elkészíteni */
 
 .date::before,
 .date::after {
@@ -150,8 +149,6 @@ a:hover {
 
 }
 
-...
-
 @media (min-width: 768px) {
 
   .hero-text {
@@ -166,7 +163,6 @@ a:hover {
 
 }
 
-...
 
 @media (min-width: 768px) {
 
