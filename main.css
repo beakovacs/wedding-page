@@ -102,12 +102,6 @@ a:hover {
   margin-bottom: 0; /* To negate the effect of the single-direction margin declaration. */
 }
 
-.hero-text h1:hover {
-  transform: scale(1.2);
-  transition: all 0.5s ease-in-out;
-  font-weight: bold;
-}
-
 .tagline {
   font-size: 1.25rem;
   letter-spacing: .15rem;
