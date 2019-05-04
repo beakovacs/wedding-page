@@ -135,36 +135,7 @@ a:hover {
   vertical-align: middle;
   margin: 0 .5rem;
 }
-@media (min-width: 768px) {
 
-  .cover {
-    background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat center/cover;
-  }
-
-}
-
-@media (min-width: 768px) {
-
-  .hero-text {
-    padding: 1.25rem;
-    border-radius: 4px;
-    width: 50%;
-  }
-
-  .hero-text h1 {
-    font-size: 7rem;
-  }
-
-}
-
-
-@media (min-width: 768px) {
-
-  .tagline {
-    text-transform: uppercase;
-  }
-
-}
 /* =============================
 
       LOCATIONS STYLES
